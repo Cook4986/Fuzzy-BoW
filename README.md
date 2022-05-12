@@ -1,2 +1,2 @@
 # Fuzzy-BoW
-Create and fuzzy search bag-of-words generated from handwritten transcriptions
+Create and fuzzy search bag-of-words from directory of individual .txt files
